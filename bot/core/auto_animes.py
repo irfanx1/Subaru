@@ -49,9 +49,9 @@ RAW_BTN = "𝗛𝗗𝗥𝗶𝗽"
 MANGA_BTN = "𝗥𝗲𝗮𝗱 𝗡𝗼𝘄"
 MANGA_READ_BUTTON = "𝗥𝗲𝗮𝗱 𝗡𝗼𝘄"
 MANGA_CHNL_BUTTON = "𝗝𝗼𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹"
-DOWNLOAD_BTN = "𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗡𝗼𝘄"
-DOWNLOAD_ANIME_BTN = "𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗡𝗼𝘄"
-DOWNLAOD_CHNL_BTN = "𝗝𝗼𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹"
+DOWNLOAD_BTN = "• ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴡᴀᴛᴄʜ ɴᴏᴡ •"
+DOWNLOAD_ANIME_BTN = "• ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴡᴀᴛᴄʜ ɴᴏᴡ •"
+DOWNLAOD_CHNL_BTN = ""
 
 import hashlib
 import time
